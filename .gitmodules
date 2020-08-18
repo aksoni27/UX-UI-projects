@@ -7,3 +7,6 @@
 [submodule "corona-virus-tracking-system-using-Reactjs"]
 	path = corona-virus-tracking-system-using-Reactjs
 	url = https://github.com/aksoni27/corona-virus-tracking-system-using-Reactjs
+[submodule "Image-Searcher-using-ReactJs"]
+	path = Image-Searcher-using-ReactJs
+	url = https://github.com/aksoni27/Image-Searcher-using-ReactJs
